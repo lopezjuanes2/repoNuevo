@@ -7,4 +7,4 @@ Se continua parendiendo, Esta vez haciendo cambios desde el repositorio de githu
 
 Continuamos aprendiendo !!!
 
-Ultima leccion desde GitHub, ahora vamos a probar fetch 
+Ultima leccion desde GitHub, ahora vamos a probar, corrigiendo 
